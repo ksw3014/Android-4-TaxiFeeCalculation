@@ -1,4 +1,4 @@
-package ian.com.taxifeecalculate;
+package ian.com.taxifeecalculation;
 
 import org.junit.Test;
 
